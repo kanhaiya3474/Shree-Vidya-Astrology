@@ -1,5 +1,7 @@
 🌟 Shree Vidya Shringi Jyotish Kendra
 
+https://kanhaiya3474.github.io/Shree-Vidya-Astrology/
+
 A professional astrology website based on ancient Indian Vedic science, focused on providing logical, practical, and non-superstitious guidance for modern life.
 
 📌 About the Project
